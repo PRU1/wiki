@@ -1,0 +1,6 @@
+- used for descriptions of circumstances
+- weather
+- background
+- habitual or repeated actions
+- state of mind (i.e. I want to do something --> that's a state of mind)
+- for any completed action, use **passe compose**

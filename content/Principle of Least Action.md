@@ -1,0 +1,1 @@
+idea behind [[lagrangian mechanics]]

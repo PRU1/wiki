@@ -1,0 +1,5 @@
+- [ ] Morin Probability
+- [ ] Spivak Calculus?
+- [ ] book on proof writing
+- [ ] Giancoli Physics
+- [ ] Calculus an intuitive and physical approach

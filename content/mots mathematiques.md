@@ -1,0 +1,4 @@
+| Word    | Definition |
+| ------- | ---------- |
+| désigné | appointed  |
+|         |            |

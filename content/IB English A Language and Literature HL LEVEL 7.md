@@ -1,0 +1,2 @@
+- As indicated in the title, I will be obtaining a level 7 in English A: Language and Literature HL.
+- Got to get practicing!

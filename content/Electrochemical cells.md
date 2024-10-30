@@ -1,0 +1,1 @@
+	**electrolysis**: electric decomposition of a substance

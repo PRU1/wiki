@@ -1,0 +1,4 @@
+- labelled diagrams!
+	- goal is to be able to visual problems and not use diagrams (because it's faster and not limited by my artistic skill). but start with diagrams
+- dimensional analysis
+- check your order of magnitude

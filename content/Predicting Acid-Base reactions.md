@@ -1,0 +1,3 @@
+- suppose you throw in a bunch of [[Acids and bases|acids and bases]]. How do you know which ones will react?
+- strong acid will react with the strongest base
+	- strongest acid gets rid of $\ce{H+}$ easiest, strongest base accepts it the first as well

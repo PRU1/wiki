@@ -1,0 +1,2 @@
+- used to nonlinearize output of neurons in a neural network
+- you want to do this so that the output is not a linear combination of the inputs (this would be no better than linear regression; you want to be able to find complicated relationships)
